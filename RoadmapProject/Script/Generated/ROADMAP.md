@@ -2,9 +2,9 @@
 ## Text version
 Tapping on a link will take you to relevant materials.
 
-- [ ] [`iOS Developer`](Resources/iOS_Developer/RESOURCES.md)
+- [X] [`iOS Developer`](Resources/iOS_Developer/RESOURCES.md)
     - [ ] [`Practical knowledge`](Resources/iOS_Developer/Practical_knowledge/RESOURCES.md)
-        - [ ] [Getting started](Resources/iOS_Developer/Practical_knowledge/Getting_started/RESOURCES.md)
+        - [X] [Getting started](Resources/iOS_Developer/Practical_knowledge/Getting_started/RESOURCES.md)
             - [X] [First pet project ideas](Resources/iOS_Developer/Practical_knowledge/Getting_started/First_pet_project_ideas/RESOURCES.md)
         - [ ] [`Languages`](Resources/iOS_Developer/Practical_knowledge/Languages/RESOURCES.md)
             - [ ] [`Objective-C`](Resources/iOS_Developer/Practical_knowledge/Languages/Objective-C/RESOURCES.md)
@@ -173,7 +173,7 @@ Tapping on a link will take you to relevant materials.
             - [ ] IDE
                 - [ ] Xcode
                     - [ ] [Interface Builder](Resources/iOS_Developer/Practical_knowledge/Tools/IDE/Xcode/Interface_Builder/RESOURCES.md)
-            - [ ] Swiftlint
+            - [X] Swiftlint
             - [ ] Sourcery
             - [ ] [Fastlane](Resources/iOS_Developer/Practical_knowledge/Tools/Fastlane/RESOURCES.md)
             - [ ] Charles
