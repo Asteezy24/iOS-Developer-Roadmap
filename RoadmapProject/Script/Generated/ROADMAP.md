@@ -54,7 +54,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] [`States`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIApplication/States/RESOURCES.md)
                     - [ ] [UIApplicationDelegate](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIApplication/UIApplicationDelegate/RESOURCES.md)
                 - [ ] [`UIViews`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViews/RESOURCES.md)
-                    - [ ] [`UITableViews`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViews/UITableViews/RESOURCES.md)
+                    - [X] [`UITableViews`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViews/UITableViews/RESOURCES.md)
                     - [ ] [`UICollectionViews`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/UIViews/UICollectionViews/RESOURCES.md)
                 - [ ] [Layers](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Layers/RESOURCES.md)
                 - [ ] [`Layout`](Resources/iOS_Developer/Practical_knowledge/Cocoa_Touch/UIKit/Layout/RESOURCES.md)
