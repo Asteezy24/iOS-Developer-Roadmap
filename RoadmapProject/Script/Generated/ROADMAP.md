@@ -96,7 +96,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Observer
                     - [ ] Proxy
                     - [ ] Receptionist
-                    - [ ] Singleton
+                    - [X] Singleton
                     - [ ] Template Method
                     - [ ] MVC
                 - [ ] [`Architectural`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Architectural/RESOURCES.md)
@@ -114,7 +114,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Factory Method
                     - [ ] Object Pool
                     - [ ] Prototype
-                    - [ ] [Singleton](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Creational/Singleton/RESOURCES.md)
+                    - [X] [Singleton](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Creational/Singleton/RESOURCES.md)
                 - [ ] `Structural`
                     - [ ] Adapter
                     - [ ] Bridge
