@@ -91,7 +91,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Decorator
                         - [ ] Delegation
                         - [ ] Categories
-                    - [ ] Facade
+                    - [X] Facade
                     - [ ] Memento
                     - [ ] Observer
                     - [ ] Proxy
@@ -120,7 +120,7 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Bridge
                     - [ ] Composite
                     - [ ] Decorator
-                    - [ ] Facade
+                    - [X] Facade
                     - [ ] Flyweight
                     - [ ] Proxy
                 - [ ] `Behavioural`
