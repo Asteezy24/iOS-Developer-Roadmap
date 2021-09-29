@@ -85,10 +85,10 @@ Tapping on a link will take you to relevant materials.
                 - [ ] [`Cocoa`](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Cocoa/RESOURCES.md)
                     - [ ] Abstract Factory
                         - [ ] [Class cluster](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Cocoa/Abstract_Factory/Class_cluster/RESOURCES.md)
-                    - [ ] Adapter
+                    - [X] Adapter
                     - [ ] Command Pattern
                     - [ ] Chain of Responsibility
-                    - [ ] Decorator
+                    - [X] Decorator
                         - [ ] Delegation
                         - [ ] Categories
                     - [X] Facade
@@ -116,10 +116,10 @@ Tapping on a link will take you to relevant materials.
                     - [ ] Prototype
                     - [X] [Singleton](Resources/iOS_Developer/Practical_knowledge/Software_Architecture/Design_Patterns/Creational/Singleton/RESOURCES.md)
                 - [ ] `Structural`
-                    - [ ] Adapter
+                    - [X] Adapter
                     - [ ] Bridge
                     - [ ] Composite
-                    - [ ] Decorator
+                    - [X] Decorator
                     - [X] Facade
                     - [ ] Flyweight
                     - [ ] Proxy
